@@ -10,6 +10,7 @@ neattext = "*"
 matplotlib = "*"
 wordcloud = "*"
 textblob = "*"
+deep-translator = "*"
 
 [dev-packages]
 
